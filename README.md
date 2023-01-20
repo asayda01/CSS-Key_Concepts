@@ -17,7 +17,7 @@ https://github.com/asayda01/Semantic_HTML_And_Accessibility .
 
 ## Think about:
 
-•	What CSS elements you want to target and what selectors you will use 
+•	What CSS elements you want to target and what selectors you will use ?
 
 •	Are you choosing accessible colours?
 
